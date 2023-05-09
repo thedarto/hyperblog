@@ -6,4 +6,4 @@ asas
 
 mañana toca la siguiente parte 
 master 1
-master 2
+master 2 corregido
