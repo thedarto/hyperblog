@@ -8,5 +8,6 @@ Curso de git y github
 - Flujo de trabajo en GitHub
 - Buenas prácticas
 - Aplicación de cherry-pick
+- Incluye ejemplos en linux windows y mac
 ## Nota importante
 Como recordatorio este readme.md es un ~~chiste~~.
